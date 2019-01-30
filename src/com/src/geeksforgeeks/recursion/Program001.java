@@ -1,6 +1,6 @@
 package com.src.geeksforgeeks.recursion;
 
-// Fibonnaci Sequence
+//  Fibonnaci Sequence
 public class Program001 {
 	public static int getFibonnaci(int n) {
 		if(n==0 || n==1)
